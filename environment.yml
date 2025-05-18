@@ -388,4 +388,4 @@ dependencies:
       - yapf==0.43.0
       - yarl==1.18.3
       - zipp==3.21.0
-prefix: /home/ant/miniconda3/envs/omg-llava
+prefix: /home/ant/miniconda3/envs/vlm
