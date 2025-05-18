@@ -1,0 +1,11 @@
+Start index: 35
+End index: 37
+Input path: /data/odme/toys4k_blend_files
+Output path: /data/datasets/LSME/toys_rendering_output_new_thesis_viz
+Dataset type: toys
+will render 1 items
+not exists:  0
+/home/ant/Downloads/blender-3.6.20-linux-x64/blender -noaudio -d --background /data/datasets/infini_scenes/0163/scene.blend --python /home/ant/develop/LSME/data_generation/rendering/generate.py -- --dataset_type toys --output_path /data/datasets/LSME/toys_rendering_output_new_thesis_viz --config_path /home/ant/develop/LSME/data_generation/common/toys_scene_configs_2unknown_test/00036.json --dataset_path /data/odme/toys4k_blend_files 1>/tmp/out.txt
+--- 343.75 seconds for obj /home/ant/develop/LSME/data_generation/common/toys_scene_configs_2unknown_test/00036.json [35/37] ---
+Total time since start is 5.73 minutes
+Total time 5.73
