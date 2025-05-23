@@ -22,3 +22,5 @@ Run `render_toys.sh` inside `rendering` with the appropriate paths.
 ```
 bash render_toys.sh
 ```
+# Generated data
+Generated data can be found on [Hugging Face]{https://huggingface.co/ngailapdi}
